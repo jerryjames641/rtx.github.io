@@ -29,7 +29,7 @@ main {
 }
 
 .video {
-    background-color: black;
+    background-color: #111;
     border: 1px solid black;
     border-radius: 8px;
     padding: 1rem;
